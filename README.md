@@ -14,6 +14,9 @@
   <a href="https://github.com/tuandm/laravue/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="license">
   </a>
+  <a href="http://se-config-wizard.staging.gitpod.io/#https://github.com/tuandm/laravue">
+    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="gitpod">
+  </a>
 </p>
 
 # Laravue
